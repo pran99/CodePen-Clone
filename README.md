@@ -1,2 +1,2 @@
 # Dyte-React-Test
-An online code editor using React
+An online code editor developed with React
